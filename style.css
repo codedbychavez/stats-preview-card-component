@@ -1,0 +1,37 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+/* Global styles */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 0.9375rem;
+  background-color: hsl(233, 47%, 7%);
+}
+
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: hsl(244, 38%, 16%);
+}
+
+.card__text {
+  padding: 1em;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
