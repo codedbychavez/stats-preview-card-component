@@ -99,7 +99,7 @@ p {
   .card {
     display: flex;
     flex-direction: row-reverse;
-    max-width: 60em;
+    max-width: 65em;
   }
 
   .card__image {
