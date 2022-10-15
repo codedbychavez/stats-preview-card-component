@@ -32,14 +32,14 @@ Users should be able to:
 
 ![Screenshot of desktop](./screenshot_desktop.png)
 
-#### Desktop
+#### Mobile
 
 ![Screenshot of mobile](./screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor-stats-preview-card-component-solution-C63X1y5a3m)
+- Live Site URL: [GitHub Pages](https://codedbychavez.github.io/stats-preview-card-component/)
 
 ## My process
 
